@@ -156,7 +156,7 @@ FROM
 GROUP BY f.title;
 
 -- 6d. How many copies of the film Hunchback Impossible exist in the inventory system?
-
+2
 -- 6e. Using the tables payment and customer and the JOIN command, list the total paid by each customer. 
 -- List the customers alphabetically by last name:
 SELECT 
